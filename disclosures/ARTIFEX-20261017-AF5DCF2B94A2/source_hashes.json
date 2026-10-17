@@ -1,0 +1,12 @@
+{
+  "algorithm": "sha256",
+  "files": [
+    {
+      "path": "agent-output/public_protocol.py",
+      "size": 570,
+      "sha256": "71cf8394242528a2efb5efb257d211de7869aa9ee2219dc4551641efa0390dab",
+      "modified_utc": "2026-10-17T22:08:51.259657Z"
+    }
+  ],
+  "manifest_hash_sha256": "2f1e3d3a424b267dabda0b6988b877295b18312fccdcc5ff0188e21605674beb"
+}
