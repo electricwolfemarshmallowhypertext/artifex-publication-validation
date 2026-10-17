@@ -1,0 +1,269 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 2126 >>
+stream
+BT
+/F1 10 Tf
+48 744 Td
+13 TL
+(Defensive Disclosure: A deterministic evidence protocol that binds every approval to) Tj
+T*
+(an immutable source digest.) Tj
+T*
+() Tj
+T*
+(1. Identification) Tj
+T*
+() Tj
+T*
+(Record ID: `ARTIFEX-20261017-9124A48A25C8`) Tj
+T*
+(Origin ID: `ARTIFEX-20261017-8DB4B454A577`) Tj
+T*
+(Origin recorded UTC: `2026-10-17T20:52:49Z`) Tj
+T*
+(Origin hash: `8db4b454a57788324bb175d7a28fdfadc836b69fc4fd25d799c911dfe9558040`) Tj
+T*
+(Candidate score: `16`) Tj
+T*
+(Evidence scope: `historical_inventory`) Tj
+T*
+() Tj
+T*
+(This disclosure is based on a historical inventory. Artifex does not assert that) Tj
+T*
+(human origin was recorded before AI assistance or before the artifact existed.) Tj
+T*
+() Tj
+T*
+(2. Human Conception Record) Tj
+T*
+() Tj
+T*
+(A deterministic evidence protocol that binds every approval to an immutable source) Tj
+T*
+(digest.) Tj
+T*
+() Tj
+T*
+(The complete signed-off conception record is included as `conception_record.md`.) Tj
+T*
+() Tj
+T*
+(3. Technical Problem) Tj
+T*
+() Tj
+T*
+(A deterministic evidence protocol that binds every approval to an immutable source) Tj
+T*
+(digest.) Tj
+T*
+() Tj
+T*
+(4. Technical Solution) Tj
+T*
+() Tj
+T*
+(The captured candidate at protocol.py supplies the technical mechanism:) Tj
+T*
+() Tj
+T*
+(class EvidenceProtocol:) Tj
+T*
+(    def verify\(self, artifact, digest\):) Tj
+T*
+(        return artifact, digest) Tj
+T*
+() Tj
+T*
+(Implementation explanation: this architecture uses a deterministic verification) Tj
+T*
+(workflow because each transition must preserve the source digest and immutable) Tj
+T*
+(invariant. The technical design supplies a state machine, configuration schema,) Tj
+T*
+(and enablement notes so that another engineer can implement the mechanism.) Tj
+T*
+() Tj
+T*
+(5. Implementation Details) Tj
+T*
+() Tj
+T*
+(Captured source: `protocol.py`) Tj
+T*
+(Captured source SHA-256:) Tj
+T*
+(`b17db39b516851cc8a140f479468c49522a2025826f07a1d4d3a7cde3f6cb2a7`) Tj
+T*
+() Tj
+T*
+(The following technical artifact was captured, hashed, and bound to the human origin) Tj
+T*
+(record. It is included so the operative mechanism can be evaluated without relying) Tj
+T*
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 2185 >>
+stream
+BT
+/F1 10 Tf
+48 744 Td
+13 TL
+(on an unsupported summary.) Tj
+T*
+() Tj
+T*
+(> class EvidenceProtocol:) Tj
+T*
+(>     def verify\(self, artifact, digest\):) Tj
+T*
+(>         return artifact, digest) Tj
+T*
+(>) Tj
+T*
+(> Implementation explanation: this architecture uses a deterministic verification) Tj
+T*
+(> workflow because each transition must preserve the source digest and immutable) Tj
+T*
+(> invariant. The technical design supplies a state machine, configuration schema,) Tj
+T*
+(> and enablement notes so that another engineer can implement the mechanism.) Tj
+T*
+() Tj
+T*
+(6. Essential Components) Tj
+T*
+() Tj
+T*
+(The captured candidate at protocol.py and its source manifest identify these) Tj
+T*
+(implementation details:) Tj
+T*
+() Tj
+T*
+(class EvidenceProtocol:) Tj
+T*
+(    def verify\(self, artifact, digest\):) Tj
+T*
+(        return artifact, digest) Tj
+T*
+() Tj
+T*
+(Implementation explanation: this architecture uses a deterministic verification) Tj
+T*
+(workflow because each transition must preserve the source digest and immutable) Tj
+T*
+(invariant. The technical design supplies a state machine, configuration schema,) Tj
+T*
+(and enablement notes so that another engineer can implement the mechanism.) Tj
+T*
+() Tj
+T*
+(7. AI Assistance Summary) Tj
+T*
+() Tj
+T*
+(Artifex captured this artifact during a historical inventory; the record does not) Tj
+T*
+(infer when AI assistance occurred or which specific parts AI produced.) Tj
+T*
+() Tj
+T*
+(Human decisions, designs, or changes: The user described the work as: A) Tj
+T*
+(deterministic evidence protocol that binds every approval to an immutable source) Tj
+T*
+(digest. Artifex makes no inventorship determination.) Tj
+T*
+() Tj
+T*
+(8. Source Hashes) Tj
+T*
+() Tj
+T*
+(See `source_hashes.json`. Algorithm: SHA-256.) Tj
+T*
+() Tj
+T*
+(9. Publication Hash) Tj
+T*
+() Tj
+T*
+(`a480c4b819d3667c46a1b337c9e5c6de5549dcf591028c26746612cead7efe6e`) Tj
+T*
+() Tj
+T*
+(10. Public Ledger Location) Tj
+T*
+() Tj
+T*
+(https://github.com/electricwolfemarshmallowhypertext/artifex-publication-validation/) Tj
+T*
+(tree/artifex/ARTIFEX-20261017-9124A48A25C8/disclosures/ARTIFEX-20261017-9124A48A25C8) Tj
+T*
+() Tj
+T*
+(11. Defensive Disclosure Notice) Tj
+T*
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 335 >>
+stream
+BT
+/F1 10 Tf
+48 744 Td
+13 TL
+() Tj
+T*
+(This document is intentionally published as defensive prior art. It describes the) Tj
+T*
+(technical subject matter so that the public can identify and implement the disclosed) Tj
+T*
+(invention. It is not legal advice and makes no representation about patentability or) Tj
+T*
+(ownership.) Tj
+T*
+ET
+endstream
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000228 00000 n 
+0000000354 00000 n 
+0000002532 00000 n 
+0000002658 00000 n 
+0000004895 00000 n 
+0000005021 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+5407
+%%EOF

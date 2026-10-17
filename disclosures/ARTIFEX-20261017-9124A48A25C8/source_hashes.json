@@ -1,0 +1,12 @@
+{
+  "algorithm": "sha256",
+  "files": [
+    {
+      "path": "protocol.py",
+      "size": 411,
+      "sha256": "b17db39b516851cc8a140f479468c49522a2025826f07a1d4d3a7cde3f6cb2a7",
+      "modified_utc": "2026-10-17T20:52:49.044313Z"
+    }
+  ],
+  "manifest_hash_sha256": "ed72cefc77586ed60183c5fd2e75e4cd08575f71f8c87fed5ffb2ed8fa6c9c00"
+}
