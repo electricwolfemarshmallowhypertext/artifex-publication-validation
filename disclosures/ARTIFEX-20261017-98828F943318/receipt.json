@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "record_id": "ARTIFEX-20261017-98828F943318",
+  "title": "A deterministic evidence protocol that binds every approval to an immutable source digest.",
+  "date_utc": "2026-10-17T21:16:38Z",
+  "published_at_utc": "2026-10-17T21:16:38Z",
+  "status": "published",
+  "classification_score": 16,
+  "capture_source": "historical_scan",
+  "evidence_scope": "historical_inventory",
+  "project_run_id": "ARTIFEX-RUN-20261017-2A58285C7549",
+  "candidate_source_path": "protocol.py",
+  "source_paths": [
+    "protocol.py"
+  ],
+  "source_hash_sha256": "3ccecbffe5ca0249ede20dae23ada41564d28aa90f7d5e0266d304d96262e202",
+  "source_manifest_hash_sha256": "74bca525cddeb1ceb09a3d3eec12344955435469d0811d046c392743d82561ae",
+  "conception_record_hash_sha256": "51015f03718b31a37af2a07c353d0f23b421c174df1ea1aabc9e8ae75a2da14e",
+  "private_receipt_hash_sha256": "14443dd299efea22a825e39960bca5a4e6b759c5e9a3ee42ab3f3fa7373d0282",
+  "publication_hash_sha256": "2e4d750b46e355cd916937c585825806faec3a522bbfe57f8a7972167788138a",
+  "packet_file_hashes": {
+    "disclosure.md": "5fd147827edaf4ac8cdc10d27b77c0cec4d7267a2d004b1c022869a01bd76c5b",
+    "disclosure.pdf": "5dea52692cf6a365e2174fc026c14b5af0138cda1012c8a7af0c366949c23108",
+    "source_hashes.json": "d4a364e3dfd0d9c63ab7b9f6c899d7b3a27a38bf59b952cb9b4e504f40948139",
+    "conception_record.md": "51015f03718b31a37af2a07c353d0f23b421c174df1ea1aabc9e8ae75a2da14e"
+  },
+  "ledger_ref": "refs/tags/artifex/ARTIFEX-20261017-98828F943318",
+  "ledger_signature_required": true,
+  "publication_url": "https://github.com/electricwolfemarshmallowhypertext/artifex-publication-validation/tree/artifex/ARTIFEX-20261017-98828F943318/disclosures/ARTIFEX-20261017-98828F943318",
+  "publication_scope": "public"
+}
