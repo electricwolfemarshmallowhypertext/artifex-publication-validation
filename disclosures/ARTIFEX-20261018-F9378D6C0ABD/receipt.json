@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "record_id": "ARTIFEX-20261018-F9378D6C0ABD",
+  "title": "A public verification protocol for immutable disclosure run 687390009989422ebddf87f6882c51a4.",
+  "date_utc": "2026-10-18T04:17:39Z",
+  "published_at_utc": "2026-10-18T04:17:39Z",
+  "status": "published",
+  "classification_score": 10,
+  "capture_source": "legacy",
+  "evidence_scope": "explicit_origin",
+  "project_run_id": null,
+  "candidate_source_path": "agent-output/public_protocol.py",
+  "source_paths": [
+    "agent-output/public_protocol.py"
+  ],
+  "source_hash_sha256": "71cf8394242528a2efb5efb257d211de7869aa9ee2219dc4551641efa0390dab",
+  "source_manifest_hash_sha256": "a3290bb182e13c6f0ef42ee03ae82196eb1b0db085e6e6c50dbaf964683d82ef",
+  "conception_record_hash_sha256": "f4956ca0c6d1f231dcb42d8e7a1be19e5167d6ee0376fe5f58acdeac68ff0da0",
+  "private_receipt_hash_sha256": "344740e53bec9d06c31f33b691223dfd08520e866ab81192f461dfff3c8cdd87",
+  "publication_hash_sha256": "dca4315b321d8ac93643454885491a92e749cc382bf84d30065d937eab97c602",
+  "packet_file_hashes": {
+    "disclosure.md": "e5973c9f0bfce8d66239a7bc249acb916bc5687c4477b459620aa5762b858ee6",
+    "disclosure.pdf": "2923e10b0f6733861f03772d4a6d44b938c914651399196355fcdb16e1005d65",
+    "source_hashes.json": "5fb99d9370914285eb069f82d75fdde6147061ab7063a4af5509da888de4ce20",
+    "conception_record.md": "f4956ca0c6d1f231dcb42d8e7a1be19e5167d6ee0376fe5f58acdeac68ff0da0"
+  },
+  "ledger_ref": "refs/tags/artifex/ARTIFEX-20261018-F9378D6C0ABD",
+  "ledger_signature_required": true,
+  "publication_url": "https://github.com/electricwolfemarshmallowhypertext/artifex-publication-validation/tree/artifex/ARTIFEX-20261018-F9378D6C0ABD/disclosures/ARTIFEX-20261018-F9378D6C0ABD",
+  "publication_scope": "public"
+}
